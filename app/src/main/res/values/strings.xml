@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MS-en ligne</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="login">Se Connecter</string>
+    <string name="register">Créer un compte</string>
+    <string name="cin_hint">Numéro CIN (8 chiffres)</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="first_name_hint">Prénom</string>
+    <string name="last_name_hint">Nom</string>
+    <string name="transfer_title">Effectuer un virement</string>
+    <string name="cin_dest_hint">CIN Destinataire</string>
+    <string name="amount_hint">Montant (TND)</string>
+    <string name="send_transfer">Envoyer Virement</string>
+    <string name="history_title">Transactions récentes</string>
+    <string name="no_transactions">Aucune transaction.</string>
+    <string name="logout">Déconnexion</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="tutorial_help">💡 Comment utiliser l\'application ?</string>
+
+    <string name="dialog_help_title">💡 Comment utiliser l\'application ?</string>
+    <string name="dialog_help_msg">1. Créez un compte avec votre CIN (8 chiffres).\n2. Attendez la validation de l\'admin.\n3. Une fois validé, vous recevrez une notification.\n4. Vous pourrez alors faire des virements.\n\nEn cas de perte de mot de passe, cliquez sur \'Mot de passe oublié\'.</string>
+    <string name="btn_ok">Compris</string>
+    <string name="dialog_forgot_title">Mot de passe oublié</string>
+    <string name="dialog_forgot_msg">Entrez votre CIN pour recevoir un code par SMS (Simulé)</string>
+    <string name="hint_enter_cin">Entrez votre CIN</string>
+    <string name="btn_send">Envoyer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="dialog_otp_title">Code de vérification (SMS Simulé)</string>
+    <string name="dialog_otp_msg">Votre code est : %1$s\n\nEntrez le code et votre nouveau mot de passe.</string>
+    <string name="hint_otp_code">Code OTP</string>
+    <string name="hint_new_pass">Nouveau mot de passe</string>
+    <string name="btn_validate">Valider</string>
+
+    <!-- Default strings (ne pas supprimer) -->
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet.</string>
+</resources>

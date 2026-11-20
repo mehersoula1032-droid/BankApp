@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MS أونلاين</string>
+    <string name="welcome">مرحباً بك!</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="cin_hint">رقم البطاقة (8 أرقام)</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="first_name_hint">الاسم</string>
+    <string name="last_name_hint">اللقب</string>
+    <string name="transfer_title">إجراء تحويل</string>
+    <string name="cin_dest_hint">رقم بطاقة المستلم</string>
+    <string name="amount_hint">المبلغ (دينار)</string>
+    <string name="send_transfer">إرسال التحويل</string>
+    <string name="history_title">المعاملات الأخيرة</string>
+    <string name="no_transactions">لا توجد معاملات.</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="tutorial_help">💡 كيفية استخدام التطبيق؟</string>
+
+    <string name="dialog_help_title">💡 كيفية استخدام التطبيق؟</string>
+    <string name="dialog_help_msg">1. قم بإنشاء حساب باستخدام رقم البطاقة (8 أرقام).\n2. انتظر موافقة المسؤول.\n3. بمجرد الموافقة، ستتلقى إشعاراً.\n4. يمكنك بعد ذلك إجراء التحويلات.\n\nإذا نسيت كلمة المرور، انقر على \'نسيت كلمة المرور\'.</string>
+    <string name="btn_ok">فهمت</string>
+    <string name="dialog_forgot_title">نسيت كلمة المرور</string>
+    <string name="dialog_forgot_msg">أدخل رقم البطاقة لتلقي رمز عبر الرسائل القصيرة (محاكاة)</string>
+    <string name="hint_enter_cin">أدخل رقم بطاقتك</string>
+    <string name="btn_send">إرسال</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="dialog_otp_title">رمز التحقق (رسالة قصيرة محاكاة)</string>
+    <string name="dialog_otp_msg">رمزك هو: %1$s\n\nأدخل الرمز وكلمة المرور الجديدة.</string>
+    <string name="hint_otp_code">رمز التحقق</string>
+    <string name="hint_new_pass">كلمة المرور الجديدة</string>
+    <string name="btn_validate">تأكيد</string>
+</resources>

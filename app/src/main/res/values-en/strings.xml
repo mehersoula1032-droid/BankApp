@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MS-online</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="register">Create Account</string>
+    <string name="cin_hint">CIN (8 digits)</string>
+    <string name="password_hint">Password</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="transfer_title">Make a transfer</string>
+    <string name="cin_dest_hint">Recipient CIN</string>
+    <string name="amount_hint">Amount (TND)</string>
+    <string name="send_transfer">Send Transfer</string>
+    <string name="history_title">Recent Transactions</string>
+    <string name="no_transactions">No transactions.</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="tutorial_help">💡 How to use the app?</string>
+
+    <string name="dialog_help_title">💡 How to use the app?</string>
+    <string name="dialog_help_msg">1. Create an account with your CIN (8 digits).\n2. Wait for admin validation.\n3. Once validated, you will receive a notification.\n4. You can then make transfers.\n\nIf you forget your password, click on \'Forgot password\'.</string>
+    <string name="btn_ok">Got it</string>
+    <string name="dialog_forgot_title">Forgot password</string>
+    <string name="dialog_forgot_msg">Enter your CIN to receive an SMS code (Simulated)</string>
+    <string name="hint_enter_cin">Enter your CIN</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_otp_title">Verification Code (SMS Simulated)</string>
+    <string name="dialog_otp_msg">Your code is: %1$s\n\nEnter the code and your new password.</string>
+    <string name="hint_otp_code">OTP Code</string>
+    <string name="hint_new_pass">New password</string>
+    <string name="btn_validate">Validate</string>
+</resources>
